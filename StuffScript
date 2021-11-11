@@ -21,8 +21,8 @@ blacklist = {
     }
 }
 owners = {
-    ["9a59d6dfedebf3e33f39eef13689103e4e857589709b7dea4a9e15e5efe9e0e269ccf5ea76a30afa4fd526e4c029cfcb3afe7740efc23e86e52b7659e680687d"] = true,--juan
+    --["9a59d6dfedebf3e33f39eef13689103e4e857589709b7dea4a9e15e5efe9e0e269ccf5ea76a30afa4fd526e4c029cfcb3afe7740efc23e86e52b7659e680687d"] = true,--juan
     --["dde29ff00df5d110fddbb9e731d1348d4dcd04339023720ac29bd7c14bdf4083878130394c1c18f1978e498fd047dd50f27463490fb2b3e8be81669b9afe247a"] = true,--alex syn x
-    --["D57353BBEF56AC7F3FCACE3AA75CD8740883507B85E8C6CBFFF64A089942AFFB"] = true--alex script ware
+    ["D57353BBEF56AC7F3FCACE3AA75CD8740883507B85E8C6CBFFF64A089942AFFB"] = true--alex script ware
 }
 return
