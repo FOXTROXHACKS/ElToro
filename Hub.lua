@@ -6,7 +6,7 @@ ___________.__    ___________                   ___________              .__    
 /_______  /|____/   |____| \____/|__|   \____/  /_______  /__/\_ \|   __/|____/\____/|__||__|  
         \/                                              \/      \/|__|                         
         --Updated blacklist, Added Script Ware Support
---krnl kick
+--krnl print
         by subnodes & Al3xander        
 ]]
 _IM1OMEcQeE50XrWc, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
