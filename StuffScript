@@ -12,10 +12,11 @@ ___________.__    ___________                   ___________              .__    
 
 blacklist = {
     BIP = {
-        ["IP"] = true --PcT007x
+        ["36.70.172.243"] = true
     },
     HWID = {
-        ["2575fdabb867075b0fc159461857b31a9a90427720ff4aa4764bc4549d76eeb9f0c49101721354c668f6197884d7c8703eceadcef16aec527bb35f0a7e717b76"] = true --idfk he skipped ip
+        ["2575fdabb867075b0fc159461857b31a9a90427720ff4aa4764bc4549d76eeb9f0c49101721354c668f6197884d7c8703eceadcef16aec527bb35f0a7e717b76"] = true, --idfk he skipped ip
+        ["D8903A045B2EAC70044C5BACE6EEFFB088BC"] = true --bypassing internal admin commands and ignoring me after I literally pmed him trying to ask him something
     }
 }
 owners = {
