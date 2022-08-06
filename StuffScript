@@ -18,7 +18,7 @@ blacklist = {
     HWID = {
         ["2575fdabb867075b0fc159461857b31a9a90427720ff4aa4764bc4549d76eeb9f0c49101721354c668f6197884d7c8703eceadcef16aec527bb35f0a7e717b76"] = true, --idfk he skipped ip
         ["1d6135091be8e52b6b41f2f620f3f2891b09dfa6863c7ea9b5fcd2fbd607aa345652fe6ed679dd20c258595ed73e3ac8b18bff869ae7af2d331d64d3d03467c9"] = true,
-        ["D8903A045B003FB0639242DC3450A4401004"]
+        ["D8903A045B003FB0639242DC3450A4401004"] = true
     }
 }
 owners = {
