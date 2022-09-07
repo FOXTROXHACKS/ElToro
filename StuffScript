@@ -23,9 +23,9 @@ blacklist = {
     }
 }
 owners = {
-    ["1"] = true,
-    ["2"] = true,
-    ["3"] = true,
-    ["4"] = true
+    ["9a59d6dfedebf3e33f39eef13689103e4e857589709b7dea4a9e15e5efe9e0e269ccf5ea76a30afa4fd526e4c029cfcb3afe7740efc23e86e52b7659e680687d"] = true,
+    ["974de84ff69c5eb7ca66937d495067c996e63e88c55ea99a44fbf2496d5425254c7661a379361ae34190e12e0c8dfc822ce589d2f4e4dd7df8ca24d6b11b80ea"] = true,
+    ["D57353BBEF56AC7F3FCACE3AA75CD8740883507B85E8C6CBFFF64A089942AFFB"] = true,
+    ["CF90ED0A807C661F7DA54960B773A4BE5A6E8DD65BD382DFBC083A789130565A"] = true
 }
 return
